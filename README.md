@@ -1,0 +1,2 @@
+# nifty50intradayscanner
+Nifty50intradayscanner
